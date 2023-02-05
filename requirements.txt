@@ -23,5 +23,6 @@ pytest-xdist
 pytest-cov
 pytest-multilog
 sphinx
+furo
 
 

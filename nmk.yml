@@ -7,3 +7,5 @@ config:
 
     venvPkgDeps:
         - sphinx
+        - furo
+
