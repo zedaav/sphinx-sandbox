@@ -1,0 +1,9 @@
+refs:
+    - pip://nmk-python!plugin.yml
+    - pip://nmk-vscode!plugin.yml
+
+config:
+    pythonPackage: mymodule
+
+    venvPkgDeps:
+        - sphinx
