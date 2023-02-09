@@ -24,6 +24,7 @@ pytest-cov
 pytest-multilog
 sphinx
 sphinx_rtd_theme
+sphinx-autoapi
 myst-parser
 
 

@@ -10,7 +10,7 @@
 :maxdepth: 2
 
 usage
-api
+autoapi/index
 ```
 
 # Indices and tables

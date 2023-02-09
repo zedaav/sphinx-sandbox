@@ -8,4 +8,5 @@ config:
     venvPkgDeps:
         - sphinx
         - sphinx_rtd_theme
+        - sphinx-autoapi
         - myst-parser
