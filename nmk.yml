@@ -7,5 +7,5 @@ config:
 
     venvPkgDeps:
         - sphinx
-        - furo
-
+        - sphinx_rtd_theme
+        - myst-parser

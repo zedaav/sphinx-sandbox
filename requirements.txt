@@ -23,6 +23,7 @@ pytest-xdist
 pytest-cov
 pytest-multilog
 sphinx
-furo
+sphinx_rtd_theme
+myst-parser
 
 
